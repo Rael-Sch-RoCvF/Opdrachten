@@ -1,7 +1,7 @@
-boolean a = true;
-int b = 29;
-String c = "Clear";
+boolean goal = true;
+int points = 29;
+String clearance = "Clear";
 
-if (a == true && b > 25  && c == "Clear"|| a == false && b > 100 && c == "Clear") {
+if (goal == true && points > 25  && clearance == "Clear"|| goal == false && points > 100 && clearance == "Clear") {
   print("You met one of the requirements!");
 }
