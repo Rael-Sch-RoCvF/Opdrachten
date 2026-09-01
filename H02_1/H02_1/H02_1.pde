@@ -1,2 +1,0 @@
-print("hallo ik");
-println(" ben een print en println functie");
